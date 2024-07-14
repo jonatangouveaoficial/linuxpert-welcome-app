@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=ArcoLinux Welcome
-GenericName=ArcoLinux Welcome
-X-GNOME-FullName=ArcoLinux Welcome
-Comment=Welcome Application for ArcoLinux Installs
+Name=LinuXpert Welcome
+GenericName=LinuXpert Welcome
+X-GNOME-FullName=LinuXpert Welcome
+Comment=Welcome Application for LinuXpert Installs
 Exec=/usr/local/bin/arcolinux-welcome-app
 Icon=arcolinux-hello
 Terminal=false
