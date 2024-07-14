@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Arcolinux Welcome App
-GenericName=Arcolinux Welcome App
+Name= LinuXpert
+GenericName=LinuXpert Welcome App
 X-GNOME-FullName=Arcolinux Welcome App
-Comment=Welcome Application for Arcolinux Installations
+Comment=Welcome LinuXpert Welcome App
 Exec=/usr/local/bin/arcolinux-welcome-app
 Icon=arcolinux-hello
 Terminal=false
